@@ -8,4 +8,4 @@ It is an ALX Team project done by Okafor Gift and John Solomon.
 
 ### - how to start it
 ### - how to use it
-### - examples on these
+### - examples on these also shown

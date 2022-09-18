@@ -1,0 +1,24 @@
+section.filters{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    background-color: #ffffff;
+    height: 70px;
+    width: 100%;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+}
+
+section.filters button{
+    font-size: 18px;
+    background-color: #FF545F;
+    color: #FFFFFF;
+    height: 48px;
+    border-radius: 4px;
+    width: 20%;
+    margin-right: 30px;
+}
+
+section.filters button:hover{
+    opacity: .9;
+}
